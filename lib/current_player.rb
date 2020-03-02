@@ -12,4 +12,5 @@ def current_player(board)
 
 end
 
+puts "c"
 puts turn_count(["O", " ", " ", " ", "X", " ", " ", " ", "X"])
